@@ -1,0 +1,10 @@
+/Users/hanniko/Code/CSharpProject/JTManagerController/obj/Debug/netcoreapp2.0/JTManagerController.csproj.CoreCompileInputs.cache
+/Users/hanniko/Code/CSharpProject/JTManagerController/obj/Debug/netcoreapp2.0/JTManagerController.AssemblyInfoInputs.cache
+/Users/hanniko/Code/CSharpProject/JTManagerController/obj/Debug/netcoreapp2.0/JTManagerController.AssemblyInfo.cs
+/Users/hanniko/Code/CSharpProject/JTManagerController/bin/Debug/netcoreapp2.0/JTManagerController.deps.json
+/Users/hanniko/Code/CSharpProject/JTManagerController/bin/Debug/netcoreapp2.0/JTManagerController.runtimeconfig.json
+/Users/hanniko/Code/CSharpProject/JTManagerController/bin/Debug/netcoreapp2.0/JTManagerController.runtimeconfig.dev.json
+/Users/hanniko/Code/CSharpProject/JTManagerController/bin/Debug/netcoreapp2.0/JTManagerController.dll
+/Users/hanniko/Code/CSharpProject/JTManagerController/bin/Debug/netcoreapp2.0/JTManagerController.pdb
+/Users/hanniko/Code/CSharpProject/JTManagerController/obj/Debug/netcoreapp2.0/JTManagerController.dll
+/Users/hanniko/Code/CSharpProject/JTManagerController/obj/Debug/netcoreapp2.0/JTManagerController.pdb
